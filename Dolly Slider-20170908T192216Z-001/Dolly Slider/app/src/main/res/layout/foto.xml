@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+      xmlns:android="http://schemas.android.com/apk/res/android"
+      android:id="@+id/config_mapa"
+      android:paddingLeft="@dimen/activity_horizontal_margin"
+      android:paddingTop="@dimen/activity_vertical_margin"
+      android:paddingRight="@dimen/activity_horizontal_margin"
+      android:paddingBottom="@dimen/activity_vertical_margin"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/titulofoto"
+        android:textSize="@dimen/titulo"
+        android:textColor="@color/azulapp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/titulofoto"
+        android:layout_marginTop="10sp"
+        android:textStyle="bold"/>
+
+    <View
+        android:id="@+id/divider"
+        android:background="#c8c9cb"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:layout_marginTop="1dp"
+        android:layout_below="@id/titulofoto"/>
+
+
+
+    <TextView
+        android:id="@+id/textnumfotos"
+        android:textSize="@dimen/letras"
+        android:textColor="@color/Negro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/numfotos"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/divider"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editnumfotos"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/hintnumfotos"
+        android:textSize="@dimen/letrashint"
+        android:maxLines="1"
+        android:inputType="number"
+        android:layout_below="@+id/textnumfotos" />
+
+    <TextView
+        android:id="@+id/textdistancia"
+        android:textSize="@dimen/letras"
+        android:textColor="@color/Negro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/distancia"
+        android:textStyle="bold"
+        android:layout_below="@+id/editnumfotos" />
+
+    <EditText
+        android:id="@+id/editdistanciafoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:hint="@string/hintdistancia"
+        android:textSize="@dimen/letrashint"
+        android:maxLines="1"
+        android:inputType="number"
+        android:layout_below="@+id/textdistancia"
+        />
+
+    <TextView
+        android:id="@+id/textgiro"
+        android:textSize="@dimen/letras"
+        android:textColor="@color/Negro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/grados"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/editdistanciafoto"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editgirofoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="@string/hintgrados"
+        android:textSize="@dimen/letrashint"
+        android:maxLines="1"
+        android:inputType="number"
+        android:layout_below="@+id/textgiro"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textvelocidad"
+        android:textSize="@dimen/letras"
+        android:textColor="@color/Negro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/velocidad"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/editgirofoto"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spinnervelocidadfoto"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/textvelocidad"/>
+
+    <View
+        android:id="@+id/divider2"
+        android:background="#c8c9cb"
+        android:layout_width="wrap_content"
+        android:layout_height="3dp"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/spinnervelocidadfoto" />
+
+    <Button
+        android:id="@+id/BotonFoto"
+        android:textStyle="bold"
+        android:textColor="#c8c9cb"
+        android:background="@color/azulapp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textSize="@dimen/letras"
+        android:text="@string/Iniciar"
+        android:onClick="IniciarFoto"
+        android:layout_below="@+id/divider2" />
+
+
+</RelativeLayout>
+
+

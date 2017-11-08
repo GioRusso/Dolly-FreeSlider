@@ -1,0 +1,46 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="prueba.app.llerena.steven.com.terceraprueba.MainActivity"
+    >
+  <!--  <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+-->
+
+  <!--<item-->
+      <!--android:id="@+id/signin"-->
+      <!--app:showAsAction="ifRoom"-->
+      <!--android:icon="@drawable/login"-->
+      <!--android:title="@string/signin"-->
+      <!--/>-->
+
+    <item
+        android:id="@+id/home"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/home"
+        android:title="@string/home"
+        />
+
+  <item
+      android:id="@+id/camara"
+      app:showAsAction="ifRoom"
+      android:icon="@drawable/camara"
+      android:title="@string/foto"
+      />
+
+    <item
+        android:id="@+id/video"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/video"
+        android:title="@string/video"
+        />
+
+
+
+
+
+
+</menu>

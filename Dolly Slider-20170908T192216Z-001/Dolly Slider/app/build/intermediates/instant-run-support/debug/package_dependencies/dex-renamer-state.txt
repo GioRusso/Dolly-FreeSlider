@@ -1,0 +1,22 @@
+#Fri Sep 08 14:30:08 COT 2017
+renamed.6=classes.dex
+renamed.5=classes7.dex
+renamed.4=classes3.dex
+renamed.3=classes4.dex
+renamed.2=classes2.dex
+renamed.1=classes6.dex
+renamed.0=classes5.dex
+base.6=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8d8f66121767dc95003f13bfb88f82004f81685f
+base.5=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\YouTubeAndroidPlayerApi_9d7027467a2e1230cc19fdc13e45665971e68eed
+base.4=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b84765e6ca6be9064661c3ed63dd88d1ff2d0c44
+base.3=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_be5290cabbf13ea39bf3ad25b0c17c529948ed1e
+base.2=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a09a3f26e03a3d3a2ac445202b1fa5c69b2feec1
+base.1=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.1_6f509bbdf4cb5e620ffcbedef3ed982449e5fc42
+base.0=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.1_f8055ecf4a289ea15a9f01e93777f5b5444697d7
+file.6=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_8d8f66121767dc95003f13bfb88f82004f81685f\\classes.dex
+file.5=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\YouTubeAndroidPlayerApi_9d7027467a2e1230cc19fdc13e45665971e68eed\\classes.dex
+file.4=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b84765e6ca6be9064661c3ed63dd88d1ff2d0c44\\classes.dex
+file.3=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_be5290cabbf13ea39bf3ad25b0c17c529948ed1e\\classes.dex
+file.2=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a09a3f26e03a3d3a2ac445202b1fa5c69b2feec1\\classes.dex
+file.1=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.2.1_6f509bbdf4cb5e620ffcbedef3ed982449e5fc42\\classes.dex
+file.0=C\:\\Users\\Daniela\\Desktop\\Dolly Slider-20170908T192216Z-001\\Dolly Slider\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.2.1_f8055ecf4a289ea15a9f01e93777f5b5444697d7\\classes.dex

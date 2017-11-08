@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Dolly Slider</string>
+    <string name="action_settings">Configuracion</string>
+
+    <string name="none_paired">Ningun dispositivo pudo ser emparejado</string>
+    <string name="FalloConex">La creacción del Socket fallo</string>
+    <string name="foto">Foto</string>
+    <string name="video">Video</string>
+    <string name="home">Home</string>
+    <string name="velocidad">Velocidad</string>
+    <string name="numfotos">Número de fotos</string>
+    <string name="grados">Grados de giro</string>
+    <string name="distancia">Distancia</string>
+    <string name="hintnumfotos">Digite número de fotos</string>
+    <string name="hintgrados">Digite grados de giro (°)</string>
+    <string name="hintdistancia">Digite distancia (cm)</string>
+    <string name="Iniciar">Iniciar</string>
+    <string name="Detener">Detener</string>
+    <string name="Bienvenido">Bienvenido a Dolly Slider</string>
+    <string name="resena">Aquí será escrita la reseña del proyecto. Se puede elegir número de fotos, distancia, velocidad y grados de giro de la camara</string>
+    <string name="titulofoto">FOTO</string>
+    <string name="titulovideo">VIDEO</string>
+    <string name="botonconf">Configurar conexión</string>
+
+    <string-array name="itemsvelocidad">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+    </string-array>
+</resources>

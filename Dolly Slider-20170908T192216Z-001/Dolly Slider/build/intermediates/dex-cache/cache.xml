@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniela\Desktop\Dolly Slider-20170908T192216Z-001\Dolly Slider\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="C:\Users\Daniela\Desktop\Dolly Slider-20170908T192216Z-001\Dolly Slider\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi_9d7027467a2e1230cc19fdc13e45665971e68eed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniela\.android\build-cache\2220c0f8fb98f7daee796e42d2b16bec5b123d26\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Daniela\Desktop\Dolly Slider-20170908T192216Z-001\Dolly Slider\app\build\intermediates\pre-dexed\debug\classes_be5290cabbf13ea39bf3ad25b0c17c529948ed1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniela\.android\build-cache\2a80368600f3c7db4e8108cbd9e4762d0dacf6c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Daniela\Desktop\Dolly Slider-20170908T192216Z-001\Dolly Slider\app\build\intermediates\pre-dexed\debug\classes_8d8f66121767dc95003f13bfb88f82004f81685f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniela\.android\build-cache\f9a60251e7edb9c273afd22b4a3480fd8789f2ec\output\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Daniela\Desktop\Dolly Slider-20170908T192216Z-001\Dolly Slider\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_f8055ecf4a289ea15a9f01e93777f5b5444697d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniela\.android\build-cache\f9a60251e7edb9c273afd22b4a3480fd8789f2ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Daniela\Desktop\Dolly Slider-20170908T192216Z-001\Dolly Slider\app\build\intermediates\pre-dexed\debug\classes_a09a3f26e03a3d3a2ac445202b1fa5c69b2feec1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniela\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Daniela\Desktop\Dolly Slider-20170908T192216Z-001\Dolly Slider\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_6f509bbdf4cb5e620ffcbedef3ed982449e5fc42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Daniela\.android\build-cache\79154350b8c128482a80e659b8cb75f96ba12753\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Daniela\Desktop\Dolly Slider-20170908T192216Z-001\Dolly Slider\app\build\intermediates\pre-dexed\debug\classes_b84765e6ca6be9064661c3ed63dd88d1ff2d0c44.jar" />
+    </item>
+
+</items>
