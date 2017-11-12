@@ -1,6 +1,7 @@
 # Dolly Free-Slider
 
 Proyecto de grado - Ingeniería electrónica
+
 Universidad del Norte - Barranquilla, Colombia
 
 ## Autores
