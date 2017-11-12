@@ -1,0 +1,8 @@
+v0.1.0 - Algortimo basica para prueba de motor, moviemiento de un solo motor.
+v0.2.0 - Implementacion del segundo motor, utilizando pines segun esquema de PCB.
+v0.3.0 - Se agregaron las librerias de conexion bluetooth y configuracion de respectivos pines.
+v0.3.1 - Se implementaron condicionales para el moviemiento de motores en base a datos recibidos por Bluetooth.
+v0.3.2 - Manejo de variables por medio de protocolo bluetooth.
+v0.4.0 - Control simultaneo de ambos motores, se removio la conexion bluetooth.
+v1.0.0 - Primera version de control de los motores segun los parametros del usuario sin uso de delay.
+v1.1.0 - Integracion de la conexion bluetooth, e implementacion de los dos modos (Foto y Video).
